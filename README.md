@@ -6,3 +6,4 @@ handling signed commits.
 Keys:
 
 * RSA 2048: `291EDC71` (Expires 2016-05-07)
+* NIST P521: `E11EA17B` (Expires 2016-05-07)
