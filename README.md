@@ -1,7 +1,10 @@
-# Test Github Repo
+# Git GPG Test Repo
 
-This repo is used solely to test the capabilities of various git systems for
-handling signed commits.
+Github recently announced [on their blog](https://github.com/blog/2144-gpg-signature-verification)
+that they support displaying the status of GPG-Signed commits in commit lists.
+This repo is to test these capabilities for a number of different signature
+algorithms. You can see the result in the
+[list of commits](https://github.com/samlanning/github-sig-test/commits/master).
 
 Keys (avaliable as files in this repo):
 
