@@ -3,7 +3,7 @@
 This repo is used solely to test the capabilities of various git systems for
 handling signed commits.
 
-Keys:
+Keys (avaliable as files in this repo):
 
 * RSA 2048: `291EDC71` (Expires 2016-05-07)
 * NIST P521: `E11EA17B` (Expires 2016-05-07)
